@@ -203,7 +203,7 @@ const About: NextPage = () => {
                             <li>Learning New Things: Keeping up with the latest tools and ways of doing things.</li>
                             <li>Documenting Work: Writing down how your code works so others can understand.</li>
                             <li>Managing Time: Staying organized to get things done on time.</li>
-                            <li>Learning and Growing: Improving your skills and contributing to the team's success.</li>
+                            <li>Learning and Growing: Improving your skills and contributing to the team&apos;s success.</li>
                           </ul>
 
                         </div>
