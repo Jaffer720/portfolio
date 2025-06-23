@@ -239,7 +239,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h4 className="timeline-title">
-                            Bachelor's in Computer Science
+                            Bachelor&apos;s in Computer Science
                           </h4>
                           <h6 className="timeline-date">
                             University of Baltistan
